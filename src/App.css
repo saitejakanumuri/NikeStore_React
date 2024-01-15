@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+.Nike{
+    align-items: center;
+}
+.bigContent{
+    display: flex;
+    margin-left: 157px;
+    margin-top:102px
+}
+.setHeight{
+    margin-top:102px;
+}
+.container{
+    max-width: 1280px;
+    align-items: center;
+    margin:auto;
+}
+.boldStrong{
+    font-family: Poppins;
+    font-size: 108px;
+    font-weight: 800;
+    line-height: 102px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: black;
+    margin-bottom:36px; 
+}
+.adjustfont{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:grey;
+    max-width:400px;
+    margin-bottom: 36px;
+
+}
+.Nike-buttons{
+    gap:40px;
+    display:flex;
+}
+.b1{
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 29px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+.setfont{
+    font-size:14px;
+}
+.store-logos{
+    display: flex;
+    gap:20px;
+}
+.b2{
+    background: transparent;
+    border: 1px solid #000000
+}
